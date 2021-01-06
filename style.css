@@ -67,7 +67,7 @@ h2{
     box-shadow: 10px 10px 30px;
     border-radius: 10px;
 }
-.row: ::after{
+.row::after{
     content: "";
     display: table;
     clear: both;
