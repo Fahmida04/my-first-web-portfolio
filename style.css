@@ -28,7 +28,7 @@ p{
     font-size: 20px;
 }
 .top-banner{
-    background-image: url("shapes/top-banner.png");
+    background-image: url("shapes/top-banner.png.png");
     background-repeat: no-repeat;
 }
 section{
@@ -43,7 +43,7 @@ section{
     font-weight: 800;
 }
 .bottom-banner{
-    background-image: url("shapes/dream-bg.png");
+    background-image: url("shapes/dream-bg.png.png");
     background-repeat: no-repeat;
     background-position: right;
 }
